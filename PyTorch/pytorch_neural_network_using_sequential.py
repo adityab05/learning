@@ -1,3 +1,7 @@
+"""
+# PyTorch Basic Neural Network Template Using nn.sequential
+"""
+
 import torch
 
 
